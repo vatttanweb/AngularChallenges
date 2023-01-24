@@ -1,0 +1,23 @@
+:host .leftTodo{
+    height: 100%;
+    background: #1b6e6e;
+}
+:host .rightTodo{
+    height:100%;
+
+}
+:host .fullHeight{
+    height: 100%;
+}
+:host .topMargin15{
+    margin-top: 15px;
+}
+:host mat-form-field{
+    width: 100%;
+    padding:5%;
+}
+:host button{
+    margin-bottom: 5%;
+    margin-left: 10%;
+    width: 50%;
+}
